@@ -1,5 +1,9 @@
 # Goodbye Message
 
+Add custom goodbye message to your wordpress site.
+
+![Header illustration](readme_assets/header.png?raw=true "Header")
+
 This is a Wordpress plugin and uses the Wordpress customizer api.
 
 The plugin gives you the option to swap the title of the current page with a customizable goodbye message. It will swap back again when the user returns to the site. 
