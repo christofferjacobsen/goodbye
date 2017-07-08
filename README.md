@@ -15,6 +15,7 @@ The plugin gives you the option to swap the title of the current page with a cus
 
 ## Use
 1. Edit the title in the theme customizer.
+![Use illustration](readme_assets/preview.jpg?raw=true "Use")
 
 ## Tips
 Use a emoji to add extra attention to the title.
